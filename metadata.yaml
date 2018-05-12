@@ -34,6 +34,8 @@ creator:
     gutenberg_agent_id: '33061'
     url: http://www.gutenberg.org/2009/agents/33061
 description: Based on the play L'oiseau bleu, by Maurice Maeterlinck.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27991#The-Blue-Bird-for-ChildrenThe-Wonderful-Adventures-of-Tyltyl-and-Mytyl-in-Search-of-Happiness
 gutenberg_issued: '2009-02-04'
 gutenberg_type: Text
 identifiers:
