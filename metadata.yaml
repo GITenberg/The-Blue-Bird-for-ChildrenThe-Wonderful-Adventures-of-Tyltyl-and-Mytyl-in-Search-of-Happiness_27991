@@ -1,0 +1,52 @@
+_repo: The-Blue-Bird-for-ChildrenThe-Wonderful-Adventures-of-Tyltyl-and-Mytyl-in-Search-of-Happiness_27991
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixera de
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: archival
+  image_path: 27991-h/images/covers.jpg
+creator:
+  authors:
+  - agent_name: Leblanc, Georgette
+    alias: Maeterlinck, Georgette Leblanc
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '25320'
+    url: http://www.gutenberg.org/2009/agents/25320
+  - agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+  editor:
+    agent_name: Perkins, Frederick Orville
+    gutenberg_agent_id: '33061'
+    url: http://www.gutenberg.org/2009/agents/33061
+description: Based on the play L'oiseau bleu, by Maurice Maeterlinck.
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Children -- Juvenile fiction'
+title: 'The Blue Bird for Children
+
+  The Wonderful Adventures of Tyltyl and Mytyl in Search of Happiness'
+url: http://www.gutenberg.org/ebooks/27991
